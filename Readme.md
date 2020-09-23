@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Leahu Luiza](https://up.htmlacademy.ru/javascript/21/user/1471761).
-* Наставник: `Неизвестно`.
+* Наставник: [Полина Прокофьева](https://htmlacademy.ru/profile/id1322073).
 
 ---
 
